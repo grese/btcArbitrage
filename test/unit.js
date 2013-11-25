@@ -1,2 +1,0 @@
-BTCApp.setupForTesting();
-BTCApp.injectTestHelpers();
