@@ -9,9 +9,5 @@
     "ember-resolver": "git://github.com/stefanpenner/ember-jj-abrams-resolver.git#master",
     "ic-ajax": "~0.2",
     "ember-testing-httpRespond": "~0.1.1"
-  },
-  "resolutions": {
-    "ember": "~1.2.0",
-    "handlebars": "~1.1.2"
   }
 }
